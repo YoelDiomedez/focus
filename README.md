@@ -21,3 +21,14 @@ El Sistema de Almacenes Multi Oficinas o Sucursales (_Focus»_) fue desarrollado
    - Documentos
    - Oficinas o Sucursales
    - Usuarios
+   
+![alt text](https://github.com/YoelDiomedez/focus/blob/master/screeshots/Login.png)
+![alt text](https://github.com/YoelDiomedez/focus/blob/master/screeshots/Welcome.png)
+![alt text](https://github.com/YoelDiomedez/focus/blob/master/screeshots/Dashboard.png)
+![alt text](https://github.com/YoelDiomedez/focus/blob/master/screeshots/Kardex.png)
+![alt text](https://github.com/YoelDiomedez/focus/blob/master/screeshots/Products.png)
+![alt text](https://github.com/YoelDiomedez/focus/blob/master/screeshots/Inputs.png)
+![alt text](https://github.com/YoelDiomedez/focus/blob/master/screeshots/Orders.png)
+![alt text](https://github.com/YoelDiomedez/focus/blob/master/screeshots/Outputs.png)
+![alt text](https://github.com/YoelDiomedez/focus/blob/master/screeshots/Suppliers.png)
+![alt text](https://github.com/YoelDiomedez/focus/blob/master/screeshots/OfficesOrLocations.png)
